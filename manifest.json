@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Baseline Feature Checker",
+    "version": "1.0",
+    "description": "Check if a web feature is Baseline supported accross browsers.",
+    "permissions": 
+    [
+        "activeTab",
+        "scripting"
+    ],
+    "host_permissions": 
+    [
+        "https://api.webstatus.dev/*"
+    ],
+    "action": 
+    {
+        "default_popup": "popup.html"
+    }
+}
