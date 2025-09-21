@@ -4,7 +4,7 @@
 A lightweight browser extension that checks if a web feature is part of the Baseline (widely supported across modern browsers).
 
 ## 🔹 Try It Out
-- Live Demo (no install needed): [FeatureScope Demo](https://YOUR_USERNAME.github.io/featurescope/)  
+- Live Demo (no install needed): [FeatureScope Demo](https://risers12345.github.io/featurescope/)  
 - Chrome Extension:  
   1. Clone this repo  
   2. Go to chrome://extensions/  
